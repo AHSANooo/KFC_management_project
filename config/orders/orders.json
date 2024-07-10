@@ -1,0 +1,354 @@
+[
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "burger"
+        ],
+        "payment_method": "cash",
+        "total": 465.0,
+        "discount": 2.7,
+        "total after discount": 452.445,
+        "datetime": "2024-07-08T12:44:23.266422"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "burger",
+            "burger"
+        ],
+        "payment_method": "card",
+        "total": 930.0,
+        "discount": 7.7,
+        "total after discount": 858.39,
+        "datetime": "2024-07-08T12:46:29.098791"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "burger",
+            "burger",
+            "burger",
+            "burger",
+            "burger",
+            "burger",
+            "burger",
+            "burger",
+            "burger"
+        ],
+        "payment_method": "cash",
+        "total": 4185.0,
+        "discount": 2.7,
+        "total after discount": 4072.005,
+        "datetime": "2024-07-08T12:47:02.800454"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "burger"
+        ],
+        "payment_method": "cash",
+        "total": 465.0,
+        "total_discount": 0.027,
+        "total_after_discount": 452.445,
+        "datetime": "2024-07-08T12:49:59.246957"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "coleslaw",
+            "coleslaw"
+        ],
+        "payment_method": 1,
+        "total": 360,
+        "total_discount": 0.027,
+        "total_after_discount": 350.28,
+        "datetime": "2024-07-08T14:10:24.066140"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings",
+            "burger",
+            "burger"
+        ],
+        "payment_method": "card",
+        "total": 1230.0,
+        "total_discount": 0.077,
+        "total_after_discount": 1135.29,
+        "datetime": "2024-07-08T14:29:35.701949"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": 3,
+        "total": 300,
+        "total_discount": 0.027,
+        "total_after_discount": 291.9,
+        "datetime": "2024-07-08T14:30:15.404836"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings",
+            "hot_wings"
+        ],
+        "payment_method": "cash",
+        "total": 600,
+        "total_discount": 0.027,
+        "total_after_discount": 583.8,
+        "datetime": "2024-07-08T14:31:26.135569"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "coleslaw"
+        ],
+        "payment_method": "card",
+        "total": 180,
+        "total_discount": 0.077,
+        "total_after_discount": 166.14000000000001,
+        "datetime": "2024-07-08T14:50:59.514408"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "fries",
+            "fries",
+            "fries",
+            "fries",
+            "fries"
+        ],
+        "payment_method": "cash",
+        "total": 1000,
+        "total_discount": 0.027,
+        "total_after_discount": 973.0,
+        "datetime": "2024-07-08T14:55:50.143795"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "cash",
+        "total": 300,
+        "total_discount": 0.027,
+        "total_after_discount": 291.9,
+        "datetime": "2024-07-08T15:08:10.376469"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings",
+            "hot_wings"
+        ],
+        "payment_method": "cash",
+        "total": 600,
+        "total_discount": 0.147,
+        "total_after_discount": 511.8,
+        "datetime": "2024-07-08T16:33:20.593073"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "fries"
+        ],
+        "payment_method": "cash",
+        "total": 200,
+        "total_discount": 0.147,
+        "total_after_discount": 170.6,
+        "datetime": "2024-07-08T16:43:19.059288"
+    },
+    {
+        "customer_name": "HI",
+        "items": [
+            "fries"
+        ],
+        "payment_method": "cash",
+        "total": 200,
+        "total_discount": 0,
+        "total_after_discount": 200,
+        "datetime": "2024-07-08T16:44:54.684929"
+    },
+    {
+        "customer_name": "JDS",
+        "items": [
+            "fries",
+            "fries"
+        ],
+        "payment_method": "card",
+        "total": 400,
+        "total_discount": 0.05,
+        "total_after_discount": 380.0,
+        "datetime": "2024-07-08T16:47:14.005583"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "fries"
+        ],
+        "payment_method": "cash",
+        "total": 200,
+        "total_discount": 0.147,
+        "total_after_discount": 170.6,
+        "datetime": "2024-07-08T16:54:00.791738"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "burger"
+        ],
+        "payment_method": "cash",
+        "total": 465.0,
+        "total_discount": 0.147,
+        "total_after_discount": 396.645,
+        "datetime": "2024-07-08T16:58:49.379850"
+    },
+    {
+        "customer_name": "HI",
+        "items": [
+            "fries"
+        ],
+        "payment_method": "card",
+        "total": 200,
+        "total_discount": 0.077,
+        "total_after_discount": 184.60000000000002,
+        "datetime": "2024-07-08T17:02:37.341128"
+    },
+    {
+        "customer_name": "HI",
+        "items": [
+            "fries"
+        ],
+        "payment_method": "card",
+        "total": 200,
+        "total_discount": 0.077,
+        "total_after_discount": 184.60000000000002,
+        "datetime": "2024-07-08T17:10:56.446081"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "card",
+        "total": 300,
+        "total_discount": 0.197,
+        "total_after_discount": 240.89999999999998,
+        "datetime": "2024-07-09T09:26:16.392503"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "cash",
+        "total": 300,
+        "total_discount": 0.147,
+        "total_after_discount": 255.9,
+        "datetime": "2024-07-09T14:02:31.815825"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "cash",
+        "total": 300,
+        "total_discount": 0.147,
+        "total_after_discount": 255.9,
+        "datetime": "2024-07-09T14:07:36.707872"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "card",
+        "total": 300,
+        "total_discount": 0.197,
+        "total_after_discount": 240.89999999999998,
+        "datetime": "2024-07-09T14:08:02.928056"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "1",
+        "total": 300,
+        "total_discount": 0.197,
+        "total_after_discount": 240.89999999999998,
+        "datetime": "2024-07-09T14:44:37.297781"
+    },
+    {
+        "customer_name": "HI",
+        "items": [
+            "coleslaw",
+            "corn_on_cob",
+            "corn_on_cob"
+        ],
+        "payment_method": "2",
+        "total": 529.2,
+        "total_discount": 0.027,
+        "total_after_discount": 514.9116,
+        "datetime": "2024-07-09T14:48:16.502657"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "corn_on_cob",
+            "corn_on_cob"
+        ],
+        "payment_method": "1",
+        "total": 349.20000000000005,
+        "total_discount": 0.16999999999999998,
+        "total_after_discount": 289.83600000000007,
+        "datetime": "2024-07-09T15:04:04.185750"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "coleslaw",
+            "coleslaw"
+        ],
+        "payment_method": "1",
+        "total": 360,
+        "total_discount": 0.16999999999999998,
+        "total_after_discount": 298.8,
+        "datetime": "2024-07-09T15:24:38.146703"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "mashed_potatoes"
+        ],
+        "payment_method": "2",
+        "total": 209.0,
+        "total_discount": 0.12,
+        "total_after_discount": 183.92,
+        "datetime": "2024-07-09T17:36:24.696242"
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "items": [
+            "hot_wings"
+        ],
+        "payment_method": "1",
+        "total": 300,
+        "total_discount": 0.16999999999999998,
+        "total_after_discount": 249.00000000000003,
+        "datetime": "2024-07-10T09:49:40.629142"
+    },
+    {
+        "customer_name": "WHILE",
+        "selected_items": [
+            "coleslaw"
+        ],
+        "payment_method": "1",
+        "total": 180,
+        "total_discount": 0.05,
+        "total_after_discount": 171.0
+    }
+]

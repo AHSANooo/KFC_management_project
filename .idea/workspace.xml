@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20330f54-50c8-459f-a671-1af5c17dd779" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/adapters/adapters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/adapters/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/adapters/csv_adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/adapters/json_adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/inventory/inventory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/orders/orders.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugins/plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/products/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/abstract_file_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv_adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/discount_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/file_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/file_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/input_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/inventory_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/json_adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/json_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/json_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/order_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/product_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/service_locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/customer_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/discount_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/inventory_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/order_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/product_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/logger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2j0fFkR6qccEoKX88annaLw7bEy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/pythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20330f54-50c8-459f-a671-1af5c17dd779" name="Changes" comment="" />
+      <created>1720528813361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720528813361</updated>
+      <workItem from="1720528815204" duration="23974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/interfaces/customer_interface.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1720615854174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
