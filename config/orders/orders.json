@@ -360,5 +360,15 @@
         "total": 180,
         "total_discount": 0.027,
         "total_after_discount": 175.14
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "selected_items": [
+            "mashed_potatoes"
+        ],
+        "payment_method": "2",
+        "total": 209.0,
+        "total_discount": 0.12,
+        "total_after_discount": 183.92
     }
 ]
