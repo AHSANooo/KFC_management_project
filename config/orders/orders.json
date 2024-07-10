@@ -350,5 +350,15 @@
         "total": 180,
         "total_discount": 0.05,
         "total_after_discount": 171.0
+    },
+    {
+        "customer_name": "HI",
+        "selected_items": [
+            "coleslaw"
+        ],
+        "payment_method": "2",
+        "total": 180,
+        "total_discount": 0.027,
+        "total_after_discount": 175.14
     }
 ]
