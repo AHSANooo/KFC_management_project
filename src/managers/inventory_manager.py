@@ -27,7 +27,7 @@ class InventoryManager:
 
     def update_inventory(self, product_id: str, quantity: int):
         if product_id in self.inventory:
-            self.inventory[product_id] += quantity
+            self.inventory[product_id] -= quantity
         else:
             self.inventory[product_id] = quantity
         self.save_inventory()

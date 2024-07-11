@@ -8,23 +8,25 @@ from src.core.service_locator import ServiceLocator
 
 class OrderManager:
     def __init__(self, orders_dir: str, service_locator: ServiceLocator):
+        self.file_path = orders_dir
         self.orders_dir = orders_dir
         self.data_adapter = service_locator.get_data_adapter(self.orders_dir)
+        self.service_locator = service_locator
         self.file_loader = FileLoader(self.data_adapter)
         self.file_saver = FileSaver(self.data_adapter)
         self.orders = self.load_orders()
 
-    def load_orders(self) -> List[Dict]:
-        try:
-            orders = self.file_loader.load()
-            return orders
-        except Exception as e:
-            print(f"Error loading orders: {e}")
-            return []
+    def load_orders(self):
+        loader = self.service_locator.get_data_adapter(self.file_path)
+        orders = loader.load()
+        if not isinstance(orders, list):
+            orders = []
+        return orders
 
     def save_orders(self):
         try:
-            self.file_saver.save(self.orders)
+            loader = self.service_locator.get_data_adapter(self.file_path)
+            loader.save_order(self.orders)
         except Exception as e:
             print(f"Error saving orders: {e}")
 
