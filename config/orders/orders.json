@@ -28,5 +28,16 @@
         "total": 209.0,
         "total_discount": 0.077,
         "total_after_discount": 192.907
+    },
+    {
+        "customer_name": "MUHAMMAD AHSAN",
+        "selected_items": [
+            "fries"
+        ],
+        "payment_method": "2",
+        "total": 200,
+        "total_discount": 0.027,
+        "total_after_discount": 194.6,
+        "Datetime": "2024-07-11   12:25"
     }
 ]

@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import List, Dict
 from src.core.file_loader import FileLoader
 from src.core.file_saver import FileSaver
@@ -18,11 +19,21 @@ class OrderManager:
 
     def load_orders(self):
         loader = self.service_locator.get_data_adapter(self.file_path)
-        orders = loader.load()
-        if not isinstance(orders, list):
-            orders = []
-        return orders
+        if loader is None:
+            print('No data adapter found for the given file path')
+            return []  # Return an empty list or handle as appropriate
 
+        try:
+            orders = loader.load()
+            if not isinstance(orders, list):
+                orders = []
+            return orders
+        except FileNotFoundError:
+            print('File not found')
+            return []  # Return an empty list or handle as appropriate
+        except Exception as e:
+            print(f"An unexpected error occurred: {e}")
+            return []  # Return an empty list or handle as appropriate
     def save_orders(self):
         try:
             loader = self.service_locator.get_data_adapter(self.file_path)
@@ -37,8 +48,9 @@ class OrderManager:
             'selected_items': selected_items,
             'payment_method': payment_method,
             'total': total,
-            'total_discount': total_discount,
-            'total_after_discount': total_after_discount
+            'total_discount': total_discount*100,
+            'total_after_discount': total_after_discount,
+            'Datetime': datetime.now().strftime('%Y-%m-%d   %H:%M'),
         }
         self.orders.append(order)
         self.save_orders()

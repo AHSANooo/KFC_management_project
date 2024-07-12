@@ -17,3 +17,11 @@ class JSONDataAdapter:
 
     def disconnect(self):
         pass  # Cleanup if required
+
+
+    def load_order(self):
+        with open(self.file_path, 'r') as file:
+            return json.load(file)
+        with open(self.file_path, 'w') as file:
+            json.dump(data, file, indent=4)
+

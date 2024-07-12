@@ -1,4 +1,5 @@
 import csv
+import os
 
 class CSVDataAdapter:
     def __init__(self, file_path):
@@ -32,7 +33,15 @@ class CSVDataAdapter:
             return [row for row in reader]
 
     def save_order(self, data):
-        with open(self.file_path, 'w', newline='') as file:
+        if not data:
+            return
+
+        file_exists = os.path.isfile(self.file_path)
+
+        with open(self.file_path, 'a', newline='') as file:
             writer = csv.DictWriter(file, fieldnames=data[0].keys())
-            writer.writeheader()
+            if not file_exists or file.tell() == 0:
+                writer.writeheader()
             writer.writerows(data)
+
+
