@@ -8,23 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../pythonProject" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/adapters/adapters.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/adapters/adapters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/adapters/csv_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/adapters/csv_adapter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/adapters/json_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/adapters/json_adapter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/inventory/Book1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/config/inventory/Book1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/orders/Book1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/config/orders/Book1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/orders/orders.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/orders/orders.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/abstract_file_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/adapters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv_adapter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/discount_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inventory_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/json_adapter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/order_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/product_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/managers/order_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/managers/order_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +101,7 @@
       <workItem from="1720528815204" duration="41962000" />
       <workItem from="1720696626460" duration="6494000" />
       <workItem from="1720767678393" duration="47000" />
+      <workItem from="1721295455245" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of highly structured KFC management program">
       <option name="closed" value="true" />
