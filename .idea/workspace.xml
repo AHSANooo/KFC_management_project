@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20330f54-50c8-459f-a671-1af5c17dd779" name="Changes" comment="First commit of highly structured KFC management program">
+      <change beforePath="$PROJECT_DIR$/../New project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../New project/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +101,7 @@
       <workItem from="1720696626460" duration="6494000" />
       <workItem from="1720767678393" duration="47000" />
       <workItem from="1721295455245" duration="66000" />
+      <workItem from="1721302796995" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of highly structured KFC management program">
       <option name="closed" value="true" />
