@@ -34,7 +34,7 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AHSANooo/kf-management-project.git
+    git clone https://github.com/AHSANooo/kfc-management-project.git
     cd kfc-management-project
     ```
 
