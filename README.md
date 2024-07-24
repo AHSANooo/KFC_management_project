@@ -34,8 +34,8 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/kfc-order-management-cli.git
-    cd kfc-order-management-cli
+    git clone https://github.com/AHSANooo/kf-management-project.git
+    cd kfc-management-project
     ```
 
 2. Install required packages:
